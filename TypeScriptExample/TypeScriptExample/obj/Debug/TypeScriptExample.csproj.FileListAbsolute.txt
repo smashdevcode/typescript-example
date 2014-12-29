@@ -1,0 +1,6 @@
+C:\Users\James Churchill\Documents\GitHub\TypeScriptExample\TypeScriptExample\TypeScriptExample\bin\TypeScriptExample.dll.config
+C:\Users\James Churchill\Documents\GitHub\TypeScriptExample\TypeScriptExample\TypeScriptExample\bin\TypeScriptExample.dll
+C:\Users\James Churchill\Documents\GitHub\TypeScriptExample\TypeScriptExample\TypeScriptExample\bin\TypeScriptExample.pdb
+C:\Users\James Churchill\Documents\GitHub\TypeScriptExample\TypeScriptExample\TypeScriptExample\obj\Debug\TypeScriptExample.csprojResolveAssemblyReference.cache
+C:\Users\James Churchill\Documents\GitHub\TypeScriptExample\TypeScriptExample\TypeScriptExample\obj\Debug\TypeScriptExample.dll
+C:\Users\James Churchill\Documents\GitHub\TypeScriptExample\TypeScriptExample\TypeScriptExample\obj\Debug\TypeScriptExample.pdb
